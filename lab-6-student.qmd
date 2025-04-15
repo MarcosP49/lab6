@@ -1,8 +1,4 @@
----
-title: "Lab 6 - Childcare Costs"
-author: "Marcos Palominos"
-output: md
----
+
 
 ## The Data
 
@@ -19,6 +15,8 @@ library(tidyverse)
 library(forcats)
 library(dplyr)
 ```
+
+
 
 ```{r}
 #| label: load-data
